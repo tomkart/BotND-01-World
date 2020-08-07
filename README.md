@@ -2,7 +2,7 @@
 
 Gazebo Sim Project 01
 
-** To run **
+**To run**
 
 ```
 mkdir build
