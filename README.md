@@ -2,13 +2,15 @@
 
 Gazebo Sim Project 01
 
-To run
+** To run **
 
+```
 mkdir build
+cd build
 cmake ../
+make
 export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:${PWD}
-
 
 cd ../world
 gazebo world 
-
+```
